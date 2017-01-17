@@ -9,5 +9,6 @@
 <h1>Getting Started with Java on Heroku</h1>
 <p>This is a sample Java application deployed to Heroku. It's a reasonably simple app - but a good foundation for understanding how to get the most out of the Heroku platform.</p>
 
+<p>Tom is a sad 49er Fan!</p>
 </body>
 </html>
